@@ -7,18 +7,15 @@
   <a href="mailto:rizwan@digiservicezone.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  I create modern digital experiences through <b>design, development, SEO, and digital marketing</b>.<br/>
-  🎨 Design &nbsp;•&nbsp; 💻 Develop &nbsp;•&nbsp; 📈 Market &nbsp;•&nbsp; 🤖 Build AI Solutions
-</p>
+<img src="./assets/ticker.svg" width="100%" alt="Tech stack ticker" />
 
----
+<br/>
 
-<img src="./assets/skills.svg" width="100%" alt="Animated tech universe" />
+<img src="./assets/terminal.svg" width="100%" alt="Terminal intro" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cpp,py,threejs,figma,mysql,mongodb,git,github,vercel&perline=7" />
-</p>
+<br/>
+
+<img src="./assets/skills.svg" width="100%" alt="Skill power levels" />
 
 ---
 
@@ -56,12 +53,12 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanmalik08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
 
----
+<p align="center">
+  <a href="https://digiservicezone.com"><img src="./assets/cta.svg" width="520" alt="Let's build something amazing" /></a>
+</p>
 
 <p align="center">
-  📧 rizwan@digiservicezone.com &nbsp;•&nbsp; 📍 Lahore, Pakistan<br/>
-  <b>Building meaningful digital experiences for businesses and brands.</b><br/>
-  ⭐ Feel free to explore my repositories!
+  📧 rizwan@digiservicezone.com &nbsp;•&nbsp; 📍 Lahore, Pakistan
 </p>
 
 <img src="./assets/footer.svg" width="100%" alt="" />
